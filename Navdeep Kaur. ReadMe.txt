@@ -1,0 +1,12 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2869
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww20840\viewh15380\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 As part of the Homework assessment, Assignment 1: Introductory Statistics and Data Handling, the following files are added to the GitHub repository:\
+\
+a. Navdeep Kaur.qmd - This file is the Quarto file, made in RStudio, which contains the codes for the 20 tasks as part of Assignment 1, with proper comments and executable outputs. \
+\
+b. Navdeep Kaur.html - This file is the rendered file for the qmd, where the quarto was selected to produce an HTML output. This file displays the codes and output in an HTML format. }
